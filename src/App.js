@@ -30,7 +30,7 @@ export default function App() {
           </a>
           , hosted on
           <a
-            href="https://github.com/jana-droidcon/React-week-4"
+            href="https://weathersearchengine-janahille.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
