@@ -71,7 +71,7 @@ export default function WeatherSearch() {
             <strong>Wind: {Math.round(weather.wind)} km/h</strong>
           </li>
           <li>
-            <img src={weather.icon} />
+            <img alt="icon" src={weather.icon} />
           </li>
         </ul>
       </div>
