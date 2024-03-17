@@ -21,7 +21,7 @@ export default function App() {
           </a>
           , is on
           <a
-            href="https://github.com/jana-droidcon"
+            href="https://github.com/jana-droidcon/React-week-4"
             target="_blank"
             rel="noreferrer"
           >
@@ -29,11 +29,7 @@ export default function App() {
             Github
           </a>
           , hosted on
-          <a
-            href="https://github.com/jana-droidcon"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="" target="_blank" rel="noreferrer">
             {" "}
             Netlify
           </a>
