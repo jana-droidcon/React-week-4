@@ -91,7 +91,6 @@ export default function WeatherSearch() {
           wrapperStyle={{}}
           wrapperClass=""
         />
-        ;
       </div>
     );
   }
